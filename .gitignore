@@ -1,0 +1,6 @@
+# Never deploy server-side scripts from this static landing page.
+*.php
+*.php[0-9]
+*.phtml
+node_modules/
+.claude/
